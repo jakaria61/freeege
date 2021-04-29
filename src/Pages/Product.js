@@ -34,7 +34,7 @@ const Product = () => {
                 
                 <Link to='/Payment' style={{textDecoration:"none"}}>
                 <div className="icon">
-                <img src={kiwi}/>
+                <img src={kiwi} alt=""/ >
                 
                    <h2>kiwi</h2>
                 </div>

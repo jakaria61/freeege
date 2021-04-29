@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Home from './Pages/Home';
 import Product from './Pages/Product'
@@ -8,7 +8,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+ 
 } from "react-router-dom";
 import About from './Pages/About';
 import Post from './Pages/Post';

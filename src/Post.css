@@ -1,0 +1,15 @@
+.part1 img{
+   width: 300px;
+   border-radius: 23px 69px 25px 85px;
+   justify-content: center;
+}
+.part1{
+    width: 600px;
+    margin: 10px;
+    justify-content: center;
+}
+#pbody{
+    margin: 10px;
+    background-color: rgba(151, 145, 151, 0.308);
+    padding-top: 7pc;
+}
